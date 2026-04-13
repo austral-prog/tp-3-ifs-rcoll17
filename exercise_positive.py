@@ -20,6 +20,6 @@ def positive():
     elif A<0: print("El numero es negativo")
     else: print("El numero es cero")
 
-    pass
-positive()
+    
+
 
